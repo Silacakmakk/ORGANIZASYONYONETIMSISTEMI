@@ -1,0 +1,510 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|c:\\users\\silac\\onedrive\\desktop\\projeler\\c#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\sipari\u015Fler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\sipari\u015Fler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\paket_sil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\paket_sil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\paketler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\paketler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\paketekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\paketekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\organizasyonrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\organizasyonrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\nisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\nisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\nisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\nisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\musterilercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\musterilercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\kina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\kina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\g\u00F6revliler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\g\u00F6revliler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\eklefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\eklefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\dugun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\dugun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\dugun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\dugun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\musterilercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\musterilercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\sipari\u015Fler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\sipari\u015Fler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\bkrl_veda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\bkrl_veda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\paketler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\paketler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\g\u00F6revliler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\g\u00F6revliler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\organizasyonrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\organizasyonrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\paketekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\paketekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\bkrl_veda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\bkrl_veda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\kina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\kina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\eklefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\eklefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\paket_sil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\paket_sil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E04C3060-2896-4D71-8127-167DD0C68243}|organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi.csproj|solutionrelative:organizasyon_planlama_sistemi\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 247,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Urunler.cs",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Urunler.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\Urunler.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Urunler.cs",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\Urunler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:19:30.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Program.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\Program.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Program.cs",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:55:17.467Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Sipari\u015Fler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Sipari\u015Fler.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\Sipari\u015Fler.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Sipari\u015Fler.cs [Design]",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\Sipari\u015Fler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:49:07.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dugun.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Dugun.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\Dugun.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Dugun.cs [Design]",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\Dugun.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T08:12:33.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "G\u00F6revliler.cs",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\G\u00F6revliler.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\G\u00F6revliler.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\G\u00F6revliler.cs",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\G\u00F6revliler.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:13:30.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrganizasyonRol.cs",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\OrganizasyonRol.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\OrganizasyonRol.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\OrganizasyonRol.cs",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\OrganizasyonRol.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAqwGYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:03:06.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrganizasyonRol.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\OrganizasyonRol.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\OrganizasyonRol.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\OrganizasyonRol.cs [Design]",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\OrganizasyonRol.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:43:34.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Musterilercs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Musterilercs.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\Musterilercs.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Musterilercs.cs [Design]",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\Musterilercs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:22:37.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sipari\u015Fler.cs",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Sipari\u015Fler.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\Sipari\u015Fler.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Sipari\u015Fler.cs",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\Sipari\u015Fler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAQBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:03:15.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "nisan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\nisan.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\nisan.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\nisan.cs [Design]",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\nisan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T19:23:36.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EKLEFRM.cs",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\EKLEFRM.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\EKLEFRM.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\EKLEFRM.cs",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\EKLEFRM.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:06:05.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EKLEFRM.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\EKLEFRM.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\EKLEFRM.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\EKLEFRM.cs [Design]",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\EKLEFRM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:53:41.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "bkrl_veda.cs",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\bkrl_veda.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\bkrl_veda.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\bkrl_veda.cs",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\bkrl_veda.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:24:05.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "bkrl_veda.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\bkrl_veda.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\bkrl_veda.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\bkrl_veda.cs [Design]",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\bkrl_veda.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:18:06.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "nisan.cs",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\nisan.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\nisan.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\nisan.cs",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\nisan.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwBwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:09:29.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Kina.cs",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Kina.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\Kina.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Kina.cs",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\Kina.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwC8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:25:41.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Kina.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Kina.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\Kina.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Kina.cs [Design]",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\Kina.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:15:50.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Paket_Sil.cs",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Paket_Sil.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\Paket_Sil.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Paket_Sil.cs",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\Paket_Sil.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:59:31.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Paket_Sil.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Paket_Sil.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\Paket_Sil.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Paket_Sil.cs [Design]",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\Paket_Sil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:53:47.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaketEkle.cs",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\PaketEkle.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\PaketEkle.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\PaketEkle.cs",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\PaketEkle.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:36:47.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PaketEkle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\PaketEkle.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\PaketEkle.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\PaketEkle.cs [Design]",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\PaketEkle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:34:02.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dugun.cs",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Dugun.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\Dugun.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Dugun.cs",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\Dugun.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:58:53.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Paketler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Paketler.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\Paketler.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Paketler.cs [Design]",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\Paketler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:19:52.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Urunler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Urunler.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\Urunler.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Urunler.cs [Design]",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\Urunler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:23:56.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Menu.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\Menu.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Menu.cs",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:49:48.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Musterilercs.cs",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Musterilercs.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\Musterilercs.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Musterilercs.cs",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\Musterilercs.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:26:22.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "G\u00F6revliler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\G\u00F6revliler.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\G\u00F6revliler.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\G\u00F6revliler.cs [Design]",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\G\u00F6revliler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:21:06.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Paketler.cs",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Paketler.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\Paketler.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Paketler.cs",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\Paketler.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwD8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:03:28.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Menu.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\Menu.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Menu.cs [Design]",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:28:47.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Form1.cs",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\Form1.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:10:42.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "organizasyon_planlama_sistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\silac\\OneDrive\\Desktop\\projeler\\C#\\organizasyon_planlama_sistemi\\organizasyon_planlama_sistemi\\Form1.cs [Design]",
+              "RelativeToolTip": "organizasyon_planlama_sistemi\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:17:29.803Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

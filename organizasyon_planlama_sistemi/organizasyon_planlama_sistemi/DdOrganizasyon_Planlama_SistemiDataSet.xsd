@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DdOrganizasyon_Planlama_SistemiDataSet" targetNamespace="http://tempuri.org/DdOrganizasyon_Planlama_SistemiDataSet.xsd" xmlns:mstns="http://tempuri.org/DdOrganizasyon_Planlama_SistemiDataSet.xsd" xmlns="http://tempuri.org/DdOrganizasyon_Planlama_SistemiDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="DdOrganizasyon_Planlama_SistemiConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="DdOrganizasyon_Planlama_SistemiConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.organizasyon_planlama_sistemi.Properties.Settings.GlobalReference.Default.DdOrganizasyon_Planlama_SistemiConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DdOrganizasyon_Planlama_SistemiDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="DdOrganizasyon_Planlama_SistemiDataSet" msprop:Generator_DataSetName="DdOrganizasyon_Planlama_SistemiDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
